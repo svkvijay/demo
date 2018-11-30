@@ -1,0 +1,15 @@
+html, body, .container-fluid,#map_canvas {
+    height:100%;
+}
+.container-fluid {
+    width:100%;
+    position:absolute;
+    top:0;
+    padding:0;
+}
+#map_canvas {
+    height:50%;
+    width: 40%;
+    border-top:50px solid #fff;
+    border-bottom:20px solid #fff;
+}
